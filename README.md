@@ -1,5 +1,5 @@
 # PhyloPractical
-These files are part of the CC0 public domain teaching resources for a Phylogenetics computer practical class given by Dave Lunt 
+These files are part of the CC0 public domain teaching resources for a Phylogenetics computer practical class given by Dave Lunt. 
 Some of the material was written by collaborators, with the Jupyter notebook largely written by Amir Szitenberg (https://github.com/szitenberg)
 
 There is a Google Doc lab manual at:
